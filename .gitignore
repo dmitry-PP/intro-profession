@@ -1,0 +1,13 @@
+# Секреты
+.env
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Служебный кэш Python
+__pycache__/
+*.py[cod]
+
+# Служебные файлы Jupyter
+.ipynb_checkpoints/
